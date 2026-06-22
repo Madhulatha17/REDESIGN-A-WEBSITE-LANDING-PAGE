@@ -14,14 +14,6 @@ The primary objectives of this redesign are:
 * Improve readability and accessibility
 * Increase user engagement and conversion potential
 
-## Deliverables
-
-### Files Included
-
-* `before_design.png` – Screenshot of the original landing page.
-* `after_design.png` – Redesigned landing page concept.
-* `design_explanation.md` – Explanation of design improvements and decisions.
-
 ## Design Improvements
 
 ### Visual Hierarchy
